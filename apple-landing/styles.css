@@ -190,7 +190,7 @@ div.copyright{
 }
 
 ul.bottom-links{
-    margin: 0 20px;
+    margin: 0 100px;
     display: flex;
 }
 
@@ -209,8 +209,8 @@ div.bottom-info{
     align-self: center;
     padding-top: 34px;
 	padding: 17px 0 21px;
-	display: flex;
-	align-items: center;
+	display: table;
+    margin: 0 auto;
 }
 
 .copyright p{
