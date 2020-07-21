@@ -123,7 +123,7 @@ header{
 	 font-size: 12px;
 	 font-weight: 400;
 	 font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
-	 text-decoration-line: none;
+	 text-decoration-line: underline;
 	 text-decoration-style: solid;
  }
  
@@ -540,7 +540,7 @@ header{
  }
  
  .link-main-image{
-	 color: rgb(41, 151, 255);
+	 color: #0066cc;
 	 font-size: 20px;
 	 font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
 	 font-weight: 350;
