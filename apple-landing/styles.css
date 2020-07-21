@@ -9,28 +9,6 @@ header{
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-
-    /*
-     margin: 0 auto;
-    max-width: 980px;
-    padding: 0 22px;
-    position: relative;
-    z-index: 2;
-
-    position: absolute;
-    top: 0;
-    right: 0;
-    left: 0;
-    z-index: 9999;
-    display: block;
-    margin: 0;
-    width: 100%;
-    min-width: 1024px;
-    height: 48px;
-    max-height: 44px;
-    background: rgba(0,0,0,0.92);
-    font-size: 17px;
-    */
 }
 body{
     margin: 0;
@@ -230,7 +208,9 @@ div.bottom-info{
     display: table;
     align-self: center;
     padding-top: 34px;
-    padding: 17px 0 21px;
+	padding: 17px 0 21px;
+	display: flex;
+	align-items: center;
 
 }
 
@@ -261,25 +241,6 @@ footer h6{
     margin: 0px;
 }
 
-
-/*
-h1{
-    font-size: 56px;
-    line-height: 1.07143;
-    font-weight: 600;
-    letter-spacing: -.005em;
-    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
-}
-*/
-
-h2{
-    font-size: 28px;
-    line-height: 1.10722;
-    font-weight: 400;
-    letter-spacing: .004em;
-    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
-    margin-top: 6px;
-}
 
 h3{
     color: #0066cc;
